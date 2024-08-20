@@ -1,0 +1,14 @@
+---
+title: "Twisters"
+author: "Courtney Hodge"
+date: "2024-08-16"
+output: html_document
+---
+```{r}
+file.choose()
+```
+
+```{r}
+data <- read.csv("C:\\Users\\hodge\\Desktop\\UVA_Coding_Folder\\Statistics-6021\\events-US-1980-2024-Q2.csv")
+```
+
